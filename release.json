@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "releaseId": "2517973234c333d034444ee59fa91088cb4254af49d4a7a1ec67480ed1671b61",
+  "generatedAtUtc": "2026-07-09T22:05:48.9783606Z",
+  "mode": "dist",
+  "appDisplayName": "phonegap",
+  "bundleId": "com.prodyum.phonegap",
+  "version": "1.0.0",
+  "buildNumber": "1",
+  "ipaFileName": "phonegap-install.ipa",
+  "ipaSha256": "4b42a29474ae6a8b7dc367922e546096e02caa21d0ff462f685726f463e56de6",
+  "manifestSha256": "57f36d7fb5f53f554dce006869f532e99d96d7be42cdac9946c2ab5bb864012c",
+  "workflowRun": "https://github.com/prodyum/one-lane/actions/runs/29053432630",
+  "pagesUrl": "https://prodyum.github.io/phonegap-installer/",
+  "manifestUrl": "https://prodyum.github.io/phonegap-installer/manifest.plist",
+  "ipaUrl": "https://prodyum.github.io/phonegap-installer/ipa/phonegap-install.ipa"
+}
