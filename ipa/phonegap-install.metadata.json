@@ -1,0 +1,14 @@
+{
+  "buildNumber": "1",
+  "bundleId": "com.prodyum.phonegap",
+  "cacheSchemaVersion": "1",
+  "commitSha": "d094afa4edc17405983b2013be9aea3b029f725d",
+  "deviceHash": "75cf38476b465ffbd9a8d843a58c137e7ae80e063494373fbeb18f5cf8154bc0",
+  "displayName": "phonegap",
+  "ipaType": "dist",
+  "sampleSlug": "phonegap",
+  "schemaVersion": 1,
+  "sourceFingerprint": "1697efbdc13d5c8314c191807671c8eb13d2c47c1e054ec479d6e50eb48279a6",
+  "version": "1.0.0",
+  "xcodeVersion": "Xcode 26.5 Build version 17F42"
+}
